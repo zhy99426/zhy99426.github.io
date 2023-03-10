@@ -36,7 +36,7 @@ My recent work topics include but are not limited to:
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/cikm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks.](https://doi.org/10.1145/3511808.3557289)
@@ -51,7 +51,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Attention Spiking Neural Networks.](https://doi.org/10.1109/TPAMI.2023.3241201)
