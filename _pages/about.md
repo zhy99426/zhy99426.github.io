@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year Master's student in Artificial Intelligence under the supervision of <a href="[url](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)">Prof. Xiu Li</a>\. My research interests lie in general area of machine learning and deep learning. I worked on brain-inspired computing, neuromorphic computing and spiking neural networks during my undergraduate studies. Currently, I am mainly working on data mining, information retrieval and recommender systems, and work closely with Huawei Noah’s Ark Lab. I am looking for a <strong>PhD candidate</strong> position in <strong>2024 Fall</strong>, and sincerely looking forward to being contacted.
+I am currently a second year Master's student in Artificial Intelligence under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ). My research interests lie in general area of machine learning and deep learning. I worked on brain-inspired computing, neuromorphic computing and spiking neural networks during my undergraduate studies. Currently, I am mainly working on data mining, information retrieval and recommender systems, and work closely with Huawei Noah’s Ark Lab. I am looking for a <strong>PhD candidate</strong> position in <strong>2024 Fall</strong>, and sincerely looking forward to being contacted (*zhang-hy21@mails.tsinghua.edu.cn*).
 
 My recent work topics include but are not limited to:
 <ul>
@@ -60,7 +60,7 @@ Man Yao, Guangshe Zhao, **Hengyu Zhang**, Yifan Hu, Lei Deng, Yonghong Tian, Bo 
 
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, TPAMI, CCF-A, IF=24.314
 
-[**Paper**](https://doi.org/10.1109/TPAMI.2023.3241201) [**Code**](hhttps://github.com/fangwei123456/spikingjelly) 
+[**Paper**](https://doi.org/10.1109/TPAMI.2023.3241201) [**Code**](https://github.com/fangwei123456/spikingjelly) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -93,3 +93,4 @@ Man Yao, Guangshe Zhao, **Hengyu Zhang**, Yifan Hu, Lei Deng, Yonghong Tian, Bo 
 - *2021.06 -- Present*, <i>Research Intern</i>, **Huawei Noah’s Ark Lab**, Search & Recommendation Group, Shenzhen, China
 
     Mentor: [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ) & [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)
+
