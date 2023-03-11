@@ -41,11 +41,11 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 [Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks.](https://doi.org/10.1145/3511808.3557289)
 
-**Hengyu Zhang<sup>*</sup>**, Enming Yuan<sup>*</sup>, Wei Guo, Zhicheng He, Jiarui Qin, Huifeng Guo, Bo Chen, Xiu Li<sup>$\dagger$</sup>, Ruiming Tang<sup>$\dagger$<sup>
+**[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>**, [Enming Yuan](https://scholar.google.com/citations?user=lUqJRhEAAAAJ)<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Zhicheng He](https://scholar.google.com/citations?user=a81k2IoAAAAJ), [Jiarui Qin](https://scholar.google.com/citations?user=JPBGjOYAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), [Bo Chen](https://scholar.google.com/citations?user=RZU1wxsAAAAJ), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>
 
 <i>The 31st ACM International Conference on Information & Knowledge Management</i>, CIKM'22, Full Paper Track, CCF-B
 
-[**Paper**](https://doi.org/10.1145/3511808.3557289) [**Code**](https://github.com/zhy99426/DualRec) 
+[**Paper**](https://doi.org/10.1145/3511808.3557289) [**Code**](https://github.com/zhy99426/DualRec) [**Demo**](https://codeocean.com/capsule/2893025/tree)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -56,7 +56,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 [Attention Spiking Neural Networks.](https://doi.org/10.1109/TPAMI.2023.3241201)
 
-Man Yao, Guangshe Zhao, **Hengyu Zhang**, Yifan Hu, Lei Deng, Yonghong Tian, Bo Xu, Guoqi Li<sup>$^\dagger$</sup>
+[Man Yao](https://scholar.google.com/citations?user=eE4vvp0AAAAJ), [Guangshe Zhao](https://ieeexplore.ieee.org/author/38194787800), **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)**, [Yifan Hu](https://scholar.google.com/citations?user=NBsnGgoAAAAJ), [Lei Deng](https://scholar.google.com/citations?user=vlqhAN4AAAAJ), [Yonghong Tian](https://scholar.google.com/citations?user=fn6hJx0AAAAJ), [Bo Xu](https://people.ucas.ac.cn/~xubo?language=en), [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ)<sup>$^\dagger$</sup>
 
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, TPAMI, CCF-A, IF=24.314
 
