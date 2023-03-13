@@ -24,7 +24,7 @@ My recent work topics include but are not limited to:
     <li>Recommendation algorithms based on user behavior sequence modeling</li>
     <li>Multi-behavior/Multi-scenario/Multi-task/Multi-modal recommendation algorithm</li>
     <li>Sequence representation learning</li>
-    <li>Recommender Big Model</li>
+    <li>Recommendation Big Model</li>
     <li>Recommendation algorithm based on graph neural network</li>
 </ul>
 
