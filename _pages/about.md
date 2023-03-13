@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year Master's student in Artificial Intelligence under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ). My research interests lie in general area of machine learning and deep learning. I worked on brain-inspired computing, neuromorphic computing and spiking neural networks during my undergraduate studies. Currently, I am mainly working on data mining, information retrieval and recommender systems, and work closely with Huawei Noah’s Ark Lab. I am looking for a <strong>PhD candidate</strong> position in <strong>2024 Fall</strong>, and sincerely looking forward to being contacted (*zhang-hy21@mails.tsinghua.edu.cn*).
+I am currently a second-year Master's student in Artificial Intelligence at [Tsinghua University](https://www.tsinghua.edu.cn/), under the supervision of [Prof. Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ). My research interests lie in the general area of machine learning and deep learning. I worked on brain-inspired computing, neuromorphic computing and spiking neural networks during my undergraduate studies. Currently, I am mainly working on data mining, information retrieval and recommender systems, and work closely with Huawei Noah’s Ark Lab. I am looking for a <strong>Ph.D. candidate</strong> position in <strong>2024 Fall</strong>, and sincerely look forward to being contacted (*zhang-hy21@mails.tsinghua.edu.cn*).
 
 My recent work topics include but are not limited to:
 <ul>
