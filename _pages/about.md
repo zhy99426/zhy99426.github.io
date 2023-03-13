@@ -90,7 +90,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 # 💻 Internships
 
-- *2021.06 -- Present*, <i>Research Intern</i>, **Huawei Noah’s Ark Lab**, Search & Recommendation Group, Shenzhen, China
+- *2022.06 -- Present*, <i>Research Intern</i>, **Huawei Noah’s Ark Lab**, Search & Recommendation Group, Shenzhen, China
 
     Mentor: [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ) & [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)
 
