@@ -36,14 +36,25 @@ My recent work topics include but are not limited to:
 
 $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/cikm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2023</div><img src='images/kdd2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hierarchical Projection Enhanced Multi-behavior Recommendation.]()
+
+[Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>, **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>**, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), Haotian Liu, [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Hongkun Zheng](https://scholar.google.com/citations?user=uWjGhmoAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
+
+<i>The 29th SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, CCF-A
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div><img src='images/cikm2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks.](https://doi.org/10.1145/3511808.3557289)
 
 **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>**, [Enming Yuan](https://scholar.google.com/citations?user=lUqJRhEAAAAJ)<sup>*</sup>, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Zhicheng He](https://scholar.google.com/citations?user=a81k2IoAAAAJ), [Jiarui Qin](https://scholar.google.com/citations?user=JPBGjOYAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), [Bo Chen](https://scholar.google.com/citations?user=RZU1wxsAAAAJ), [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>
 
-<i>The 31st ACM International Conference on Information & Knowledge Management</i>, CIKM'22, Full Paper Track, CCF-B
+<i>The 31st ACM International Conference on Information & Knowledge Management</i>, CIKM'22, CCF-B
 
 [**Paper**](https://doi.org/10.1145/3511808.3557289) [**Code**](https://github.com/zhy99426/DualRec) [**Demo**](https://codeocean.com/capsule/2893025/tree)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
