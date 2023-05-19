@@ -43,7 +43,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 [Chang Meng](https://scholar.google.com/citations?user=0yh3nS8AAAAJ)<sup>*</sup>, **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)<sup>*</sup>**, [Wei Guo](https://scholar.google.com/citations?user=9NGhGNgAAAAJ), [Huifeng Guo](https://scholar.google.com/citations?user=jlBcPn8AAAAJ), Haotian Liu, [Yingxue Zhang](https://scholar.google.com/citations?user=4bsYpogAAAAJ), [Hongkun Zheng](https://scholar.google.com/citations?user=uWjGhmoAAAAJ), [Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ)<sup>$\dagger$</sup>, [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ)<sup>$\dagger$</sup>, [Rui Zhang](https://scholar.google.com/citations?user=p-YB1msAAAAJ)
 
-<i>The 29th SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, CCF-A
+<i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, CCF-A
 
 </div>
 </div>
