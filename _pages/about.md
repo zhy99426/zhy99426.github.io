@@ -66,6 +66,23 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 </div>
 </div>
 
+### Spiking Neural Networks (Undergraduate Research)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparser Spiking Activity can be Better: Feature Refine-and-Mask Spiking Neural Network for Event-based Visual Recognition]()
+
+[Man Yao](https://scholar.google.com/citations?user=eE4vvp0AAAAJ), **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)**, [Guangshe Zhao](https://ieeexplore.ieee.org/author/38194787800),  Xiyu Zhang, [Dingheng Wang](https://scholar.google.com/citations?user=7Br24MwAAAAJ), Gang Cao, [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ)<sup>$^\dagger$</sup>
+
+<i>Neural Networks</i>, CCF-B, IF=9.657
+
+[**Paper**](https://doi.org/10.1109/TPAMI.2023.3241201) [**Code**](https://github.com/fangwei123456/spikingjelly) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/tpami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
