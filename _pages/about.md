@@ -77,7 +77,6 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>Neural Networks</i>, CCF-B, IF=9.657
 
-[**Paper**](https://doi.org/10.1109/TPAMI.2023.3241201) [**Code**](https://github.com/fangwei123456/spikingjelly) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
