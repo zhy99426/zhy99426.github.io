@@ -72,11 +72,12 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sparser Spiking Activity can be Better: Feature Refine-and-Mask Spiking Neural Network for Event-based Visual Recognition](https://doi.org/10.1016/j.neunet.2023.07.008)
+[Sparser Spiking Activity can be Better: Feature Refine-and-Mask Spiking Neural Network for Event-based Visual Recognition.](https://doi.org/10.1016/j.neunet.2023.07.008)
 
 [Man Yao](https://scholar.google.com/citations?user=eE4vvp0AAAAJ), **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)**, [Guangshe Zhao](https://ieeexplore.ieee.org/author/38194787800),  Xiyu Zhang, [Dingheng Wang](https://scholar.google.com/citations?user=7Br24MwAAAAJ), Gang Cao, [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ)<sup>$^\dagger$</sup>
 
 <i>Neural Networks</i>, CCF-B, IF=9.657
+
 [**Paper**](https://doi.org/10.1016/j.neunet.2023.07.008) [**Code**](https://github.com/BICLab)
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -98,6 +99,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+
 
 **Patent**: [CN115618950A](https://patents.google.com/patent/CN115618950A), [CN112237342A](https://patents.google.com/patent/CN112237342A)
 
