@@ -45,6 +45,7 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i>, KDD'23, CCF-A
 
+<!-- [**Paper**](https://doi.org/10.1145/3580305.3599838)  -->
 [**Code**](https://github.com/MC-CV/HPMR)
 
 </div>
@@ -71,11 +72,12 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Sparser Spiking Activity can be Better: Feature Refine-and-Mask Spiking Neural Network for Event-based Visual Recognition]()
+[Sparser Spiking Activity can be Better: Feature Refine-and-Mask Spiking Neural Network for Event-based Visual Recognition](https://doi.org/10.1016/j.neunet.2023.07.008)
 
 [Man Yao](https://scholar.google.com/citations?user=eE4vvp0AAAAJ), **[Hengyu Zhang](https://scholar.google.com/citations?user=wYQUEaMAAAAJ)**, [Guangshe Zhao](https://ieeexplore.ieee.org/author/38194787800),  Xiyu Zhang, [Dingheng Wang](https://scholar.google.com/citations?user=7Br24MwAAAAJ), Gang Cao, [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ)<sup>$^\dagger$</sup>
 
 <i>Neural Networks</i>, CCF-B, IF=9.657
+[**Paper**](https://doi.org/10.1016/j.neunet.2023.07.008) [**Code**](https://github.com/BICLab)
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -91,24 +93,28 @@ $*$ -- -- Co-first author, $\dagger$ -- -- Corresponding author
 
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i>, TPAMI, CCF-A, IF=24.314
 
-[**Paper**](https://doi.org/10.1109/TPAMI.2023.3241201) [**Code**](https://github.com/fangwei123456/spikingjelly) 
+[**Paper**](https://doi.org/10.1109/TPAMI.2023.3241201) [**Module**](https://github.com/fangwei123456/spikingjelly/blob/master/spikingjelly/activation_based/layer.py#L2016) [**Code**](https://github.com/BICLab/Attention-SNN)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
+**Patent**: [CN115618950A](https://patents.google.com/patent/CN115618950A), [CN112237342A](https://patents.google.com/patent/CN112237342A)
+
 # 🎖 Honors and Awards
+  - *Oct. 2022*  <i> Second-class Scholarship</i>  of Tsinghua University
+  - *May. 2021*  <i> "Outstanding Graduate"</i>  of Xi'an Jiaotong University
   - *Nov. 2020*  <i> First Prize</i> of the 9th National College Students Mechanical Innovation Design Competition
   - *Sept. 2020*  <i> Third Prize</i>  of National Undergraduate Electronic Design Contest
      $--$ the Advanced Information Technology Invitational Contest
-  - *Apr. 2020*  <i>Honorable mention</i>  of the Interdisciplinary Contest in Modeling
-  - *Dec. 2018*  <i> Second Prize</i>  of China Undergraduate Mathematical Contest in Modeling (Shaanxi Division)
-  - *Oct. 2019*  <i> Third Prize</i>  of National Undergraduate Electronic Design Contest (Shaanxi Division)
   - *Nov. 2018 & Dec. 2020*  <i> First-class Scholarship</i> of Xi'an Jiaotong University 
-  - *Dec. 2019*  Shenzhen Stock Exchange Scholarship
   - *Nov. 2018 & Nov. 2019 & Nov. 2020*  <i> "Outstanding Student"</i>  of Xi'an Jiaotong University
-  - *May. 2021*  <i> "Outstanding Graduate"</i>  of Xi'an Jiaotong University
-  - *Oct. 2022*  <i> Second-class Scholarship</i>  of Tsinghua University
+  - *Apr. 2020*  <i>Honorable mention</i>  of the Interdisciplinary Contest in Modeling
+  - *Dec. 2019*  Shenzhen Stock Exchange Scholarship
+  - *Oct. 2019*  <i> Third Prize</i>  of National Undergraduate Electronic Design Contest (Shaanxi Division)
+  - *Dec. 2018*  <i> Second Prize</i>  of China Undergraduate Mathematical Contest in Modeling (Shaanxi Division)
+
+
 
 # 📖 Educations
 
